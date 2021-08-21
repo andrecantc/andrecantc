@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @andrecantc
+- 👀 I’m interested in programing and server security 
+- 🌱 I’m currently learning Java and HTML5 
+- 📫 How to reach me andre.gaudet.ag@gmail.com or by phone (+46) 0732525352
