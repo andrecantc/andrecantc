@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @andrecantc
 - 👀 I’m interested in programing,cyber security and penetration testing  
 - 🌱 I’m currently learning Java and C#
-- 🚀 I’m currently working at https://platinumsales.se in the sales department
 - 📫 Reach me via mail andre.gaudet.ag@gmail.com or by phone (+46) 0732525352
