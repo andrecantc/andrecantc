@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @andrecantc
 - 👀 I’m interested in programing,cyber security and penetration testing  
-- 🌱 I’m currently learning Java and C#
+- 🌱 Currently nering out
 - 📫 Reach me via mail andre.gaudet.ag@gmail.com
