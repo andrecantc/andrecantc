@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @andrecantc
-- 👀 I’m interested in programing,cyber security and penetration testing  
-- 🌱 Currently nering out
+- 👋 Hi, I’m @andregaudet  
+- 🌱 Currently nerding out
 - 📫 Reach me via mail andre.gaudet.ag@gmail.com
