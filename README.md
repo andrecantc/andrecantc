@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm André Gaudet</h1>
-<h3 align="center">IT student with a passion for react,typescript and jsx</h3>
+<h3 align="center">IT technician with a passion for react,typescript and jsx</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrecantc&label=Profile%20views&color=0e75b6&style=flat" alt="andrecantc" /> </p>
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **react,typescript,tailwind and jsx**
+- 🌱 I’m currently learning **tailwind**
 
 - 👨‍💻 All of my projects are available at [tba](tba)
 
